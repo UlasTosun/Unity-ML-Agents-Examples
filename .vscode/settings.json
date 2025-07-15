@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity-ML-Agents-and-Sentis-Examples.sln"
+    "dotnet.defaultSolution": "Unity-ML-Agents-Toolkit-Examples.sln"
 }
